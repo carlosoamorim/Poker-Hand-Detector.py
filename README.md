@@ -38,17 +38,15 @@ Players can draw a hand of cards, choose a sorting algorithm, and the program wi
 
 ## Project Structure
 
-poker_project/
-│
-├── card.py          # card and deck classes
-├── hand.py          # hand class and poker hand detection
-├── sorters.py       # sorting algorithms
-├── game.py          # game flow and session management
-├── ui.py            # user input, menus, ascii display
-├── constants.py     # global constants (suits, values, orders)
-├── tests.py         # testing utilities
-├── init.py          # marks package
-└── main.py          # entry point
+- card.py          # card and deck classes
+- hand.py          # hand class and poker hand detection
+- sorters.py       # sorting algorithms
+- game.py          # game flow and session management
+- ui.py            # user input, menus, ascii display
+- constants.py     # global constants (suits, values, orders)
+- tests.py         # testing utilities
+- init.py          # marks package
+- main.py          # entry point
 
 ---
 
@@ -58,7 +56,10 @@ poker_project/
    git clone https://github.com/carlosamorim/Poker-Hand-Detector.py.git
 
 ---
-This project was created for academic purposes at NOVA IMS and is NOT intended for commercial use.
 
 ## NOVA IMS @ 2025
 **Carlos Amorim**
+
+This project was created for academic purposes at NOVA IMS and is NOT intended for commercial use.
+
+
